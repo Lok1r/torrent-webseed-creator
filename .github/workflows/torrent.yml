@@ -5,10 +5,10 @@ on:
       - master
       
 env:
-  name: "iP7P-iOS14"
+  name: "iPhone_5.5_P3_14.0_18A373_Restore"
   comment: "iOS"
-  url: https://api.ipsw.me/v4/ipsw/download/iPhone9,4/18A373
-  file_name: "iP7P-iOS14.ipsw"
+  url: http://updates-http.cdn-apple.com/2020SummerFCS/fullrestores/001-46730/90AD9718-61E9-4508-8B38-AD7F77FB1D71/iPhone_5.5_P3_14.0_18A373_Restore.ipsw
+  file_name: "iPhone_5.5_P3_14.0_18A373_Restore.ipsw"
   piece_size: 22 # Check the README.md for recommended piece size
       
 jobs:
