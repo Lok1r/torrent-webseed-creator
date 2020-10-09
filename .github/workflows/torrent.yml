@@ -5,11 +5,11 @@ on:
       - master
       
 env:
-  name: "Hitman Sniper Challenge"
+  name: "Talisman Origins"
   comment: "Game"
-  url: https://s597sas.storage.yandex.net/rdisk/0e66989f3a54541fb627df9b140daf77e0d8819fccff6f049d3e66fbc1cc7c4d/5f775336/O7hnub2fN4ULnpxARW1Ef3RLv_Qz3-tol2VsSO3a_himCwhSQWNcdGOuw8XeJyLBjxU6yb5J5zbTdGjBlWRvdg==?uid=0&filename=Hitman%20Sniper%20Challenge.rar&disposition=attachment&hash=QERwlVuS8NPn0vPrnpTEgB1NxQeDJ378R/MbrGATphro4SvgSoKLF1faRWQvzoMCq/J6bpmRyOJonT3VoXnDag%3D%3D&limit=0&content_type=application%2Fx-rar&owner_uid=1013828082&fsize=1050727692&hid=c926d9b99ddc073379b2eaeec8c74ecb&media_type=compressed&tknv=v2&rtoken=NgLv74qrePdf&force_default=no&ycrid=na-69c0821add8d3287d05d87dcad466532-downloader16h&ts=5b0b28172b980&s=bbeab67a3757c6a3c6553a3d3b8cfaed1e2eb80d31480c2891ab5f425eafe25b&pb=U2FsdGVkX18ppusSxxDdfh_gyaldwXVlLHtFAo7aI4qCqAAG8BNxyPn5pfVNGVxR4Dnm_F67jL0YIQT-G1zbZIE-LUYdcpOILPkyx-JAyHo
-  file_name: "Hitman Sniper Challenge.rar"
-  piece_size: 19 # Check the README.md for recommended piece size
+  url: http://www84.uptobox.com/dl/qZFn6___AkVvgUP4rdPTiRtcRrWdVNZbWmHUxKiPPetB3q71FBYjjdwcIYwIudS0mWbT5LDDKGPnlOXUScn6Nv-m-mbYZMSVLA-10HhvSv4hNhib96M7kcIY9E0-qs3rLARl6Y3WJ3a5whDsKRHq3g/Talisman.Origins-GOG.zip
+  file_name: "Talisman.Origins-GOG.zip"
+  piece_size: 20 # Check the README.md for recommended piece size
       
 jobs:
   create:
