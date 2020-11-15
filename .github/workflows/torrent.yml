@@ -5,11 +5,11 @@ on:
       - master
       
 env:
-  name: "Talisman Origins"
-  comment: "Game"
-  url: http://www84.uptobox.com/dl/qZFn6___AkVvgUP4rdPTiRtcRrWdVNZbWmHUxKiPPetB3q71FBYjjdwcIYwIudS0mWbT5LDDKGPnlOXUScn6Nv-m-mbYZMSVLA-10HhvSv4hNhib96M7kcIY9E0-qs3rLARl6Y3WJ3a5whDsKRHq3g/Talisman.Origins-GOG.zip
-  file_name: "Talisman.Origins-GOG.zip"
-  piece_size: 20 # Check the README.md for recommended piece size
+  name: "iOS_14.2"
+  comment: "Software"
+  url: http://updates-http.cdn-apple.com/2020FallFCS/fullrestores/001-74652/EE41A4BE-D95B-4A2D-A734-F8ACAC1C61AA/iPhone10,3,iPhone10,6_14.2_18B92_Restore.ipsw
+  file_name: "iPhone10,3,iPhone10,6_14.2_18B92_Restore.ipsw"
+  piece_size: 22 # Check the README.md for recommended piece size
       
 jobs:
   create:
